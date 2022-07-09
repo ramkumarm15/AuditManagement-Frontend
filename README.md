@@ -6,7 +6,8 @@ To run this application
 npm install
 ```
 
-Type 
+And type this command
+
 ```
 npm start
 ```
